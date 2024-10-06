@@ -57,7 +57,8 @@
 	--color-link-shadow: #ff0070;
 	--color-text-bg: #ff0070;
 	--display: flex;
-	--active: 1px solid #ff0070;
+	--active1: 1px solid #ff0070;
+	--active2: none;
 
 }
 
