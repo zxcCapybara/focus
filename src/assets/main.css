@@ -337,34 +337,34 @@ button {
 }
 
 .img__item1 {
-	background: url(../img/img1.png) lightgray 50% / cover no-repeat;
+	background: lightgray 50% / cover no-repeat;
 
 	width: 649px;
 	height: 250px;
 	grid-area: img__item1;
 }
 .img__item2 {
-	background: url(../img/img2.png) lightgray 50% / cover no-repeat;
-
+	background: lightgray 50% / cover no-repeat;
+	width: 315px;
 	height: 595px;
 	grid-area: img__item2;
 }
 .img__item3 {
-	background: url(../img/img3.png) lightgray 50% / cover no-repeat;
-
+	background: lightgray 50% / cover no-repeat;
+	width: 315px;
 	height: 320px;
 	grid-area: img__item3;
 	align-self: flex-end;
 }
 .img__item4 {
-	background: url(../img/img4.png) lightgray 50% / cover no-repeat;
-
+	background: lightgray 50% / cover no-repeat;
+	width: 315px;
 	height: 768px;
 	grid-area: img__item4;
 }
 .img__item5 {
-	background: url(../img/img5.png) lightgray 50% / cover no-repeat;
-
+	background: lightgray 50% / cover no-repeat;
+	width: 315px;
 	width: 649px;
 	height: 428px;
 	grid-area: img__item5;
