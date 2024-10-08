@@ -355,7 +355,7 @@ button {
 	background: lightgray 50% / cover no-repeat;
 	height: 320px;
 	grid-area: img__item3;
-	align-self: flex-end;
+	
 }
 .img__item4 {
 	background: lightgray 50% / cover no-repeat;
