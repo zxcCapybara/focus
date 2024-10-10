@@ -95,8 +95,8 @@ body {
 	width: 315px;
 }
 
-.no_bold {
-	font-weight: 400;
+.bold {
+	font-weight: 700;
 }
 
 .h-25 {
@@ -113,7 +113,7 @@ body {
 .font {
 	font-family: 'IBM Plex Mono';
 	font-style: normal;
-	font-weight: 700;
+	font-weight: 400;
 }
 
 li {
