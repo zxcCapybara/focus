@@ -106,6 +106,10 @@ body {
 	width: 25px;
 }
 
+.bg {
+	background: lightgray 50% / cover no-repeat;
+}
+
 .font {
 	font-family: 'IBM Plex Mono';
 	font-style: normal;
@@ -341,29 +345,24 @@ button {
 }
 
 .img__item1 {
-	background: lightgray 50% / cover no-repeat;
 	width: 649px;
 	height: 250px;
 	grid-area: img__item1;
 }
 .img__item2 {
-	background: lightgray 50% / cover no-repeat;
 	height: 595px;
 	grid-area: img__item2;
 }
 .img__item3 {
-	background: lightgray 50% / cover no-repeat;
 	height: 320px;
 	grid-area: img__item3;
 	
 }
 .img__item4 {
-	background: lightgray 50% / cover no-repeat;
 	height: 768px;
 	grid-area: img__item4;
 }
 .img__item5 {
-	background: lightgray 50% / cover no-repeat;
 	width: 649px;
 	height: 428px;
 	grid-area: img__item5;
