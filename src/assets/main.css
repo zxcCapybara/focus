@@ -113,6 +113,7 @@ body {
 .font {
 	font-family: 'IBM Plex Mono';
 	font-style: normal;
+
 }
 
 li {
@@ -231,8 +232,6 @@ button {
 	top: 22px;
 }
 
-
-
 .border__rec {
 	border-top: 1px solid var(--color-pink);
 	border-right: 1px solid var(--color-pink);
@@ -253,8 +252,6 @@ button {
 .active {
 	border: 1px solid var(--color-nav);
 }
-
-
 
 .no__focus-text1 {
 	color: var(--color-focus-text);
@@ -328,8 +325,6 @@ button {
 	gap: 20px;
 }
 
-
-
 /* container 5 
 */
 
@@ -355,7 +350,6 @@ button {
 .img__item3 {
 	height: 320px;
 	grid-area: img__item3;
-	
 }
 .img__item4 {
 	height: 768px;
@@ -387,7 +381,7 @@ button {
 		right: 0;
 	}
 
- .media-width {
+	.media-width {
 		width: 100%;
 	}
 
@@ -412,6 +406,10 @@ button {
 
 	.container6 {
 		height: 1024px;
+	}
+
+	.section__3 {
+		gap: 0;
 	}
 
 	.text1 {
@@ -475,7 +473,7 @@ button {
 		top: 76.5px;
 		right: 0;
 	}
-	
+
 	.media-width {
 		width: 100%;
 	}
@@ -511,13 +509,21 @@ button {
 		padding: 10px;
 	}
 
+	.section__3 {
+		gap: 0;
+	}
+
 	.text1 {
-		min-width: 236px;
+		max-width: 355px;
 		margin-bottom: 20px;
 	}
 
 	.text1-1 {
 		grid-template-columns: 355px;
+	}
+
+	.text3 {
+		max-width: 351px;
 	}
 
 	.no__focus-text1 {
