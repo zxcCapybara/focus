@@ -534,34 +534,24 @@ button {
 		display: block;
 	}
 
-	/* .img__gallery img {
-		object-fit: none;
+	.img__gallery img {
+		object-fit: cover;
 		width: 100%;
-	} */
+	}
 
 	.img__item1 {
-		width: 355px;
-		height: 142px;
 		order: 1;
 	}
 	.img__item2 {
-		width: 355px;
-		height: 355px;
 		order: 2;
 	}
 	.img__item3 {
-		width: 355px;
-		height: 355px;
 		order: 4;
 	}
 	.img__item4 {
-		width: 355px;
-		height: 237px;
 		order: 3;
 	}
 	.img__item5 {
-		width: 355px;
-		height: 237px;
 		order: 5;
 	}
 
