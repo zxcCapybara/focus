@@ -208,9 +208,8 @@ button {
 .nav__list {
 	display: flex;
 	justify-content: center;
-	align-items: center;
 	cursor: pointer;
-	gap: 12px;
+	gap: 14px;
 	margin: 0;
 	padding: 0;
 }
